@@ -4,10 +4,4 @@
 
 function [answer] = Euler001()
 
-
-
-
-
-
-
 end
